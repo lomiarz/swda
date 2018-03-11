@@ -1,0 +1,15 @@
+<layer>
+  <name>przeds</name>
+  <id>LayerInfoImpl-32c0c96f:15cefcb0bde:-7ffd</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-4e0b98bf:12475d46fdd:-7fdf</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-32c0c96f:15cefcb0bde:-7ffe</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>
